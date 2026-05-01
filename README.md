@@ -4,7 +4,7 @@ Repositorio oficial: <https://github.com/yetsin7/Curso-de-CSS>
 
 ## Documentacion de referencia
 
-Consulta [Doc-CSS.md](./Doc-CSS.md) para estudiar CSS con enlaces oficiales y
+Consulta [Documentación-CSS.md](./Documentación-CSS.md) para estudiar CSS con enlaces oficiales y
 una ruta de temas recomendada.
 
 ## Para que sirve este curso
